@@ -25,6 +25,27 @@ This is a fully responsive personal portfolio website built using **HTML**, **CS
 - **CSS3**: For styling and layout.
 - **JavaScript**: For interactivity and animations.
 
-## How to Use
+## How to Clone This Repository
 
-1. Clone the repository:
+To clone this repository to your local machine, follow these steps:
+
+1. **Copy the Repository URL**  
+   Go to the GitHub repository page: [https://github.com/Praveendedigama/portfolio-website](https://github.com/Praveendedigama/portfolio-website).
+
+2. **Clone the Repository Using Git**  
+   Open your terminal/command prompt and run one of the following commands, depending on whether you want to use HTTPS or SSH.
+
+   - **Using HTTPS:**
+     ```bash
+     git clone https://github.com/Praveendedigama/portfolio-website.git
+     ```
+   - **Using SSH:**
+     ```bash
+     git clone git@github.com:Praveendedigama/portfolio-website.git
+     ```
+
+3. **Navigate to the Project Directory**  
+   After cloning, navigate into the project folder:
+   ```bash
+   cd portfolio-website
+
